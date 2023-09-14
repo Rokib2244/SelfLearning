@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2s6YuzWed/2sS2Vdnb1masLklJCGJO/IvNptr2LgeROQshnBv9wMLIj4jR3bnX8GxqM9tkGGIZ9hO1msSXJCzA==",
+  "success": true,
+  "projectFilePath": "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nayeem.hazaree\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfLearning", "SelfLearning\SelfLearning.csproj", "{7F3F036D-BB63-4C80-8C11-9E087041E175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewProblemSolve", "InterviewProblemSolve\InterviewProblemSolve.csproj", "{EA1E124F-E4E8-4C7D-8656-1B848DBF27EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3F036D-BB63-4C80-8C11-9E087041E175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3F036D-BB63-4C80-8C11-9E087041E175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3F036D-BB63-4C80-8C11-9E087041E175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3F036D-BB63-4C80-8C11-9E087041E175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1E124F-E4E8-4C7D-8656-1B848DBF27EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1E124F-E4E8-4C7D-8656-1B848DBF27EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1E124F-E4E8-4C7D-8656-1B848DBF27EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1E124F-E4E8-4C7D-8656-1B848DBF27EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2735474-AD83-470F-AB03-260B7EE83E82}
+	EndGlobalSection
+EndGlobal
