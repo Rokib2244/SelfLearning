@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SelfLearning
 build_property.RootNamespace = SelfLearning
-build_property.ProjectDir = E:\Demos\SelfLearning\SelfLearning\
+build_property.ProjectDir = E:\Rokib\SelfLearning\SelfLearning\SelfLearning\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Demos\SelfLearning\SelfLearning
+build_property.MSBuildProjectDirectory = E:\Rokib\SelfLearning\SelfLearning\SelfLearning
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Demos/SelfLearning/SelfLearning/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Home/Index.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Home/Privacy.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Shared/Error.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Shared/_LoginPartial.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/_ViewImports.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/_ViewStart.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Demos/SelfLearning/SelfLearning/Views/Shared/_Layout.cshtml]
+[E:/Rokib/SelfLearning/SelfLearning/SelfLearning/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uw6gzfvr3b

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demos\\SelfLearning\\SelfLearning\\SelfLearning.csproj": {}
+    "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\SelfLearning.csproj": {}
   },
   "projects": {
-    "E:\\Demos\\SelfLearning\\SelfLearning\\SelfLearning.csproj": {
+    "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\SelfLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demos\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
+        "projectUniqueName": "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
         "projectName": "SelfLearning",
-        "projectPath": "E:\\Demos\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
+        "projectPath": "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
         "packagesPath": "C:\\Users\\nayeem.hazaree\\.nuget\\packages\\",
-        "outputPath": "E:\\Demos\\SelfLearning\\SelfLearning\\obj\\",
+        "outputPath": "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

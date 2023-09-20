@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7e/wxN6XbW/U7Y/jYdCEq6QcrXFfjWVPvmfgl+b2HM2/5BfaX8MFnI/q7iwmorQxKFvQNV/3i82YuE5LFvd1jw==",
+  "dgSpecHash": "U5ZGZ/gdB/x7V868/eEzcKANLn3KcIpPeuScEak5QBYLeIhZ9XJYUGggGP0nC6nVh1mkIPQRRBshmHqjmOsxKw==",
   "success": true,
-  "projectFilePath": "E:\\Demos\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
+  "projectFilePath": "E:\\Rokib\\SelfLearning\\SelfLearning\\SelfLearning\\SelfLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nayeem.hazaree\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nayeem.hazaree\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.13\\microsoft.aspnetcore.cryptography.internal.6.0.13.nupkg.sha512",

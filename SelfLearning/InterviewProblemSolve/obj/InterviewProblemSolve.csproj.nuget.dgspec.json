@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj": {}
+    "E:\\Rokib\\SelfLearning\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj": {}
   },
   "projects": {
-    "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj": {
+    "E:\\Rokib\\SelfLearning\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj",
+        "projectUniqueName": "E:\\Rokib\\SelfLearning\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj",
         "projectName": "InterviewProblemSolve",
-        "projectPath": "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj",
+        "projectPath": "E:\\Rokib\\SelfLearning\\SelfLearning\\InterviewProblemSolve\\InterviewProblemSolve.csproj",
         "packagesPath": "C:\\Users\\nayeem.hazaree\\.nuget\\packages\\",
-        "outputPath": "E:\\Demos\\SelfLearning\\InterviewProblemSolve\\obj\\",
+        "outputPath": "E:\\Rokib\\SelfLearning\\SelfLearning\\InterviewProblemSolve\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
